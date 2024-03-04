@@ -1,4 +1,4 @@
-# Business-Insights-360:
+## Business-Insights-360:
 
 
 **Project Overview**
@@ -21,21 +21,31 @@ In developing 'Business Insights 360', we've discovered the critical role of sof
 **Dashboard Views:**
 
 **Finance View:** Key financial insights through P&L analysis and sales trends.
+
 **Sales View:** Deep dive into customer and product metrics for growth insights.
+
 **Marketing View:** Data-driven strategies from market and customer analyses.
+
 **Supply Chain View:** Focus on forecast accuracy and supply chain optimization.
+
 **Executive View:** Essential metrics and KPIs for top-level decision making.
 
 
 **Enhanced Skills**
+
 This project has enhanced various skills essential for effective data analytics and visualization:
 
 
 **Power BI:** Creating compelling visual narratives.
+
 **SQL & Power Query Editor:** Efficient data manipulation.
-**DAX Language & Studio: **Advanced data modeling and report optimization.
+
+**DAX Language & Studio:** Advanced data modeling and report optimization.
+
 **Project Management Tools:** Seamless project execution.
 
 **Important Links**
-_[Live Dashboard]_[https://www.novypro.com/project/360-degree-insights]
+
+___[Live Dashboard](https://www.novypro.com/project/360-degree-insights)_____
+
 _[Video on Google Drive (HD Quality)]_
